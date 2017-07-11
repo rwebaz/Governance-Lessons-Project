@@ -1,5 +1,5 @@
 ---
-title: Motions
+title: Parliament Motions
 layout: default
 navigation_weight: 2
 ---
@@ -67,7 +67,7 @@ Debate upon an issue normally allots a period of (10) minutes to each member to 
 
 Shall the decision of the chair stand as the judgment of the assembly?
 
-Yes. But an motion to appeal the decision of the chair may be made.
+Yes. But a motion to appeal the decision of the chair may be made by any member.
 
 ## How to Calculate a 2/3rds Vote
 
@@ -84,5 +84,7 @@ Now, go ahead and double the number of 'Nay' votes.
 Ok ... Double the number of 'Nay' votes equals 80.
 
 **Rule**. If the number of 'Nay' votes doubled exceeds the number of 'Yea' votes ( In this case 80 does exceed 40 ), then the motion failed to muster the necessary 2/3rds vote, and the motion, therefore, fails to carry.
+
+***
 
 **Source**: [The Complete Idiot's Guide to Parliamentary Procedure: Fast Track by Jim Slaughter](https://medmj.us/HowToParliament){:target="_blank"}
