@@ -3,20 +3,30 @@ title: Stress Uncertainty
 layout: default
 navigation_weight: 9
 ---
+# Stress Uncertainty
+
+A deficiency of *Brain Derived Neurotrophic Factors* caused by the stresses of early childhood indirectly damages the adult prefrontal cortex, the hippocampus, as well as the adult hypothalamic adrenal system that is stimulated and regulated by the pituitary gland.
+
+## Table O Contents
+
 - TOC
 {:toc}
 
-# Stress Uncertainty
-
-A deficiency of Brain Derived Neurotrophic Factors caused by the stresses of early childhood indirectly damages the adult prefrontal cortex, the hippocampus, as well as the adult hypothalamic adrenal system that is stimulated and regulated by the pituitary gland.
-
 ## Inequality and Poverty
 
-Pondering optimal, long-term decisions is a liability when your food supply measures enough for two days of life.
+Pondering optimal, long-term decisions is a liability when your food supply only measures enough for two days of life.
+
+And, even more so, if your biology has been predisposed to a deficiency of *Brain Derived Neurotrophic Factors* caused by ... Are you ready for this?
+
+Your level of poverty.
+
+## Transgenerational Cycle
 
 **Given**. Escaping from the cycle of poverty that envelopes generations in the United States requires an element of pure chance.
 
-The real fact is the escape velocity required to perform an effective inter-generational leap from working poor to middle class is not deducible merely by the element of merit alone.
+True or False?
+
+**Hypothesis**. The escape velocity required to perform an effective trans-generational leap from working poor to middle class is not deducible merely by the element of merit alone.
 
 There is a biological component to success.
 
@@ -24,15 +34,15 @@ Histone modifications to the chromosomes, DNA methylation of the genome, and non
 
 These are the observations of scientists hell-bent on quantifying the biological reasons why one family exponentially multiplies its given capital, while another flounders on the shores of despair.
 
-These scientists have found male line (XY) transgenerational effects between the generations that do exist!
+**Fact A**. Scientists have found male line (XY) transgenerational effects between the generations that leap across the ages of time!
 
 Further, these effects cannot be easily attributed to cultural pressures or simply written off as genetic inheritance.
 
-A sort of epigenetic leap exists out there people, and scientists are hot on its trail.
+A sort of epigenetic leap between the generations exists out there people, and scientists are hot on its trail.
 
 ## The American Self-made Man
 
-**Fact**. The American myth of the self-made, inspirational individual transcending his or her circumstances by sweat and hard work is actually a very extreme rarity in real time.
+**Fact B**. The American myth of the self-made, inspirational individual transcending his or her circumstances by sweat and hard work is actually a very extreme rarity in real time.
 
 American families that start in poverty, and conceive in poverty alter not only their own immediate biologies with respect to stress response, but those of their gamete induced progeny ie.) their kids and grandkids, as well.
 
