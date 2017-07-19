@@ -3,6 +3,9 @@ title: Parliament Motions
 layout: default
 navigation_weight: 2
 ---
+- TOC
+{:toc}
+
 # Motions and Cat Birds
 
 **Rule**. Normally, in a Parliamentarian system of governance, a *motion* is first declared, then discussed.
