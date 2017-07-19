@@ -55,4 +55,4 @@ Expand your horizons, read a book.
 
 ***
 
-**Source**: [The Grim Biology of The Working Poor by Christian Cooper](https://www.nautil.us/){:target="_blank"}
+**Source**: [The Grim Biology of The Working Poor by Christian Cooper](http://nautil.us/issue/47/consciousness/why-poverty-is-like-a-disease){:target="_blank"}
