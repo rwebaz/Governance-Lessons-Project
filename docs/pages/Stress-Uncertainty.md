@@ -3,6 +3,9 @@ title: Stress Uncertainty
 layout: default
 navigation_weight: 9
 ---
+- TOC
+{:toc}
+
 # Stress Uncertainty
 
 A deficiency of Brain Derived Neurotrophic Factors caused by the stresses of early childhood indirectly damages the adult prefrontal cortex, the hippocampus, as well as the adult hypothalamic adrenal system that is stimulated and regulated by the pituitary gland.
@@ -21,9 +24,11 @@ Histone modifications to the chromosomes, DNA methylation of the genome, and non
 
 These are the observations of scientists hell-bent on quantifying the biological reasons why one family exponentially multiplies its given capital, while another flounders on the shores of despair.
 
-These scientists have found male line transgenerational effects between the generations that do exist and that cannot be easily attributed to cultural or genetic inheritance.
+These scientists have found male line (XY) transgenerational effects between the generations that do exist!
 
-A sort of epigenetic leap.
+Further, these effects cannot be easily attributed to cultural pressures or simply written off as genetic inheritance.
+
+A sort of epigenetic leap exists out there people, and scientists are hot on its trail.
 
 ## The American Self-made Man
 
