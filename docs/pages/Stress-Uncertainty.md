@@ -50,7 +50,7 @@ American families that start in poverty, and conceive in poverty alter not only 
 
 Who you are as a person is not just defined by the letters of your DNA, but by how tightly your epigenome allows for its expression.
 
-For example, how much reign your body grants the proximal promoter of the serotonin transporter gene which primes the amygdala, your brain's center for emotion and fear, has been shown to contribute to lower socioeconomic status during adolescence and on into adulthood.
+For example, how much reign your body grants the proximal promoter of the serotonin transporter gene which primes the amygdala ( your brain's center for emotion and fear ) has been shown to contribute to lower socioeconomic status during adolescence and on into adulthood.
 
 A sort of cause and effect disease, don't you see ... that just happens to be ... it turns out ... an inheritable trait!
 
