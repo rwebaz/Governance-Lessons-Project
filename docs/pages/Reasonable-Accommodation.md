@@ -40,4 +40,4 @@ A handicapped patient in Massachusetts is eligible for protection from terminati
 
 ***
 
-**Source**: [Barbuto v Advantage Sales, Massachusetts Supreme Court, Dtd 071717](https://drive.google.com/open?id=0B9uKuzMc_3-ASXhOM3NXWDRGY3c){:target="_blank"}
+**Source**: [Barbuto v Advantage Sales, Massachusetts Supreme Court, Dtd 071717](https://medmj.us/ReasonableAccommodation){:target="_blank"}
