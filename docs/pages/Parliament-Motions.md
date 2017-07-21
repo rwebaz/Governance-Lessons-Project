@@ -1,7 +1,7 @@
 ---
 title: Parliament Motions
 layout: default
-navigation_weight: 2
+navigation_weight: 9
 ---
 - TOC
 {:toc}
