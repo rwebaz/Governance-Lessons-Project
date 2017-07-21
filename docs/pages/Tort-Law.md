@@ -62,4 +62,4 @@ A sort of pervasive, social-regulatory mechanism ... Do NOT be afraid to settle 
 
 ***
 
-**Source**: [Torts: Cases, Principles, and Institutions by John Fabian Witt](https://learn.cloudcannon.com/){:target="_blank"}
+**Source**: [Torts: Cases, Principles, and Institutions by John Fabian Witt](https://www.cali.org/books/torts-cases-principles-and-institutions){:target="_blank"}
