@@ -17,6 +17,8 @@ The reference points to the first internal citation [[MMINAIL](#MMINAIL){:.red}]
 By clicking on either the red [1] above, or the red [MMINAIL] ...
 {:.red}
 
+The reader will be hyperlinked to the bottom of the page directly to the referenced citation.
+
 ### Tagline
 
 {{ site.tagline }}
@@ -24,8 +26,6 @@ By clicking on either the red [1] above, or the red [MMINAIL] ...
 ### Description
 
 {{ site.description }}
-
-The reader will be hyperlinked to the bottom of the page directly to the referenced citation.
 
 ## Sources and Uses
 
