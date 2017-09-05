@@ -5,7 +5,7 @@ navigation_weight: 9
 ---
 # The Lamentations of Publius
 
-*Publius* aka James Madison was the pen-name of the principle framer of our USA Constitution away back in #1787 - #1788.
+*Publius* ... aka James Madison was the pen-name of the principle framer of our USA Constitution away back in #1787 - #1788.
 
 {% include toc-flammarion.md %}
 
@@ -145,4 +145,4 @@ C=> [The New Federalist Papers]
 
 - The [Project Source Links](https://mminail.github.io/Governance/Source-Goverance-Links.htm){:title="Click to Visit the Source Links page of the Governance Lessons Project at GitHub pages"}{:target="_blank"}. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
 
-- The [The USA Constitution in #2017: Hillsdale College Online by Prof.](https://online.hillsdale.edu/courses/constitution-2017/){:title="Click to Visit the USA Constitution in #2017 at Hillsdale College dot edu"}{:target="_blank"}. Published by © 2017 [Online.hillsdale.edu](https://online.hillsdale.edu/courses/){:title="Click to Visit the online Course Catalog of Hillsdale College dot edu"}{:target="_blank"}.
+- The [The USA Constitution in #2017: Hillsdale College Online by Prof. Larry P. Arnn, President](https://online.hillsdale.edu/courses/constitution-2017/home/course-schedule){:title="Click to Visit the USA Constitution in #2017 at Hillsdale College dot edu"}{:target="_blank"}. Published by © 2017 [Online.hillsdale.edu](https://online.hillsdale.edu/){:title="Click to Visit the online Course Catalog of Hillsdale College dot edu"}{:target="_blank"}.
