@@ -7,14 +7,11 @@ navigation_weight: 9
 
 The State of Massachusetts Supreme Court just ruled a "Reasonable Accommodation" for handicapped #Medmj patients is warranted.
 
-And, a failure to provide a "Reasonable Accommodation" to a handicapped employee is a violation of the law.
-
-## Table O Contents
-
-- TOC
-{:toc}
+{% include toc-flammarion.md %}
 
 ## Duty To Help Mitigate
+
+The State of Massachusetts Supreme Court just ruled a failure to provide a "Reasonable Accommodation" to a handicapped employee is a violation of the law.
 
 **Rule**. A company has a duty to help mitigate an employee's reasonable request for accommodation.
 
@@ -38,6 +35,10 @@ Then, that patient is considered to be "Handicapped" under the law.
 
 A handicapped patient in Massachusetts is eligible for protection from termination of employment under the law after submitting to a failed company mandated marijuana drug test.
 
-***
+{% include sources-and-uses.md %}
 
-**Source**: [Barbuto v Advantage Sales, Massachusetts Supreme Court, Dtd 071717](https://medmj.us/ReasonableAccommodation){:target="_blank"}
+### External Sources
+
+- The [Project Source Links](https://mminail.github.io/Governance/Source-Goverance-Links.htm){:title="Click to Visit the Source Links page of the Governance Lessons Project at GitHub pages"}{:target="_blank"}. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+
+- [Barbuto v Advantage Sales, Massachusetts Supreme Court, Dtd 071717](https://medmj.us/ReasonableAccommodation){:title="Click to Visit ..."}{:target="_blank"}

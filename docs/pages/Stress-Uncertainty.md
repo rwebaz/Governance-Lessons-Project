@@ -5,14 +5,13 @@ navigation_weight: 9
 ---
 # Stress Uncertainty
 
-A deficiency of *Brain Derived Neurotrophic Factors* caused by the stresses of early childhood indirectly damages the adult prefrontal cortex, the hippocampus, as well as the adult hypothalamic adrenal system that is stimulated and regulated by the pituitary gland.
+A deficiency of *Brain Derived Neurotrophic Factors* caused by the stresses of early childhood indirectly damages the adult prefrontal cortex.
 
-## Table O Contents
-
-- TOC
-{:toc}
+{% include toc-flammarion.md %}
 
 ## Inequality and Poverty
+
+In addition, the hippocampus, as well as the adult hypothalamic adrenal system that is stimulated and regulated by the pituitary gland are affected, as well.
 
 Pondering optimal, long-term decisions is a liability when your food supply only measures enough for two days of life.
 
@@ -68,6 +67,10 @@ Expand your horizons, read a book.
 
 "And, keep on trying, till you reach the higher ground." ~ Stevie Wonder
 
-***
+{% include sources-and-uses.md %}
 
-**Source**: [The Grim Biology of The Working Poor by Christian Cooper](http://nautil.us/issue/47/consciousness/why-poverty-is-like-a-disease){:target="_blank"}
+### External Sources
+
+- The [Project Source Links](https://mminail.github.io/Governance/Source-Goverance-Links.htm){:title="Click to Visit the Source Links page of the Governance Lessons Project at GitHub pages"}{:target="_blank"}. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+
+- [The Grim Biology of The Working Poor by Christian Cooper](http://nautil.us/issue/47/consciousness/why-poverty-is-like-a-disease){:target="_blank"}
