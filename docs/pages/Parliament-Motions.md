@@ -95,4 +95,4 @@ Ok ... Double the number of 'Nay' votes equals 80.
 
 - The [Project Source Links](https://mminail.github.io/Governance/Source-Goverance-Links.htm){:title="Click to Visit the Source Links page of the Governance Lessons Project at GitHub pages"}{:target="_blank"}. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
 
-- [The Complete Idiot's Guide to Parliamentary Procedure: Fast Track by Jim Slaughter](https://medmj.us/HowToParliament){:title="Click to Visit ..."}{:target="_blank"}
+- [The Complete Idiot's Guide to Parliamentary Procedure: Fast Track by Jim Slaughter](https://medmj.us/HowToParliament){:title="Click to Visit the Guide to Parliamentary Procedure by Jim Slaughter"}{:target="_blank"}

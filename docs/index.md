@@ -5,7 +5,7 @@ navigation_weight: 1
 ---
 # Governance Lessons Project Home Page
 
-Place the introducing line of text ie.) the 'tagline' here ...
+{{ site.tagline }}
 
 ## Table O Contents
 
