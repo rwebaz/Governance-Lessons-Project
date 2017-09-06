@@ -41,4 +41,4 @@ A handicapped patient in Massachusetts is eligible for protection from terminati
 
 - The [Project Source Links](https://mminail.github.io/Governance/Source-Goverance-Links.htm){:title="Click to Visit the Source Links page of the Governance Lessons Project at GitHub pages"}{:target="_blank"}. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
 
-- [Barbuto v Advantage Sales, Massachusetts Supreme Court, Dtd 071717](https://medmj.us/ReasonableAccommodation){:title="Click to Visit ..."}{:target="_blank"}
+- In [Barbuto v Advantage Sales, Massachusetts Supreme Court, Dtd 071717](https://medmj.us/ReasonableAccommodation){:title="Click to Visit the case of Barbuto v Advantage Sales, 2017"}{:target="_blank"}
