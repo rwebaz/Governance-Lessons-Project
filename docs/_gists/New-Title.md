@@ -300,8 +300,7 @@ Place the introducing line of text ie.) the 'tagline' here ...
       <span>New York, NY</span>
 	</p>
 		<hr class="green-groove" />
-		
-	{% include footer.htm %}
+
 </footer>
 
 ## Last Subtitle
