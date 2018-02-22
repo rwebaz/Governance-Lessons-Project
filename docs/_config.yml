@@ -1,23 +1,30 @@
 # Site settings
-#
-# Date of this Update to Config-template file ver 12-18-2017
-#
-# github: [metadata]
+# 
+# Date of this Update to Config-template file ver 02-08-2018
+# 
+# Uncomment theme for docs folder
 theme: "jekyll-theme-cayman"
+#
+# There is one main repository as of 12-31-17
+# repository: https://www.github.com/MMINAIL/mminail.github.io
+#
+# There are approx sixty auxillary repositories as of 12-31-17
 # repository: https://www.github.com/rwebaz/Governance-Lessons-Project
+#
+lang: "en-US"
 title: "Governance Lessons Project"
-tagline: "A GitHub repo of Governance Lessons designed to Enlighten the reader."
-description: "A GitHub repo of Governance Lessons designed to Enlighten the reader."
+tagline: "A GitHub repo of Lessons and Articles that emphasize the Enlightend issues of governing people, organizations, and nations."
+description: "The Governance Lessons Project, or GLP is a GitHub repo of Lessons and Articles emphasizing the Enlightend issues of governing people, organizations, and nations."
 twitter:
     username: "mminail"
 author:
     name: "Robert Weber, Director"
     email: "mminail@icloud.com"
-    github_username: "mminail"
-    twitter_username: "mminail"
-# The 'baseurl' is the subpath of your designated project, e.g. /Liquid-Lessons-Project
+    github_username: "rwebaz"
+    twitter_username: "rwebaz"
+# The 'baseurl' is the subpath of your designated project, e.g. /Blank-Lessons-Project or /blog or simply "/"
 baseurl: "/Governance-Lessons-Project"
-# The 'url' is the parental web address of your designated project, e.g. /https://rwebaz.github.io
+# The 'url' is the parental web address of your designated project, e.g. /https://mminail.github.io
 url: "https://rwebaz.github.io"
 exclude: ['README.md']
 markdown: "kramdown"
@@ -29,6 +36,7 @@ kramdown:
     math_engine: "mathjax"
 timezone: "America/Phoenix"
 google_analytics: [UA-44765001-14]
+# Settings For Default Keys: Use a scope/values pair
 defaults:
   - scope:
       path: "assets/img"
@@ -46,27 +54,31 @@ defaults:
       image: "true"
 defaults:
   - scope:
+      path: "assets/img/ico"
+    values:
+      image: "true"
+defaults:
+  - scope:
       path: "" 
       type: "pages"
     values:
-      layout: "default"
-      author: "Robert Weber, Director"
+      category: "governance"
 defaults:
   - scope:
       path: "pages"
       type: "pages"
     values:
-      layout: "default" 
-      author: "Robert Weber, Director"
+      category: "governance"
+excerpt_separator: <!-- this is a literal excerpt separator -->
 collections:
-  collection_CFFP:
+  gists:
     output: "true"
 defaults:
   - scope:
-      path: ""
-      type: "collection_LLP"
+      path: "_gists"
+      type: "pages"
     values:
-      layout: "page"
+      category: "governance"
 plugins_dir:
   - jekyll-feed
   - jekyll-seo-tag
@@ -74,4 +86,4 @@ plugins_dir:
 exclude:
   - Gemfile
   - Gemfile.lock
-  
+  - Gemfile.old
