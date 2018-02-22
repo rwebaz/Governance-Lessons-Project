@@ -1,15 +1,20 @@
 ---
 title: Reasonable Accommodation
 layout: default
-navigation_weight: 9
+excerpt: A company has a duty to help mitigate a reasonable request by an employee asking for an accommodation ...
+version: Page Template md Dtd 02-16-18
+navigation_weight: 8
+categories: template
 ---
-# Reasonable Accommodation
+# {{ page.title }}
 
-The State of Massachusetts Supreme Court just ruled a "Reasonable Accommodation" for handicapped #Medmj patients is warranted.
+{{ page.excerpt }}
 
-{% include toc-flammarion.md %}
+{% include toc.md %}
 
 ## Duty To Help Mitigate
+
+The State of Massachusetts Supreme Court just ruled a "Reasonable Accommodation" for handicapped #Medmj patients is warranted.
 
 The State of Massachusetts Supreme Court just ruled a failure to provide a "Reasonable Accommodation" to a handicapped employee is a violation of the law.
 
@@ -35,10 +40,28 @@ Then, that patient is considered to be "Handicapped" under the law.
 
 A handicapped patient in Massachusetts is eligible for protection from termination of employment under the law after submitting to a failed company mandated marijuana drug test.
 
+## Import Code
+
+More to come ...
+
+## Last Subtitle
+
+**Note**. The above synopsis was derived from an article written by the Massachusetts Supreme Court [[2](#MASSA){:.red}].
+
+### Raw Code Block
+
+```liquid
+{% raw %}
+Enjoy the successful output!
+{% endraw %}
+```
+
 {% include sources-and-uses.md %}
+
+1. {:#MASSA}In [Barbuto v Advantage Sales](https://medmj.us/ReasonableAccommodation){:title="Click to Visit the case of Barbuto v Advantage Sales, 2017"}{:target="_blank"} by the Massachusetts Supreme Court, Dtd 071717.
 
 ### External Sources
 
-- The [Project Source Links](https://mminail.github.io/Governance/Source-Goverance-Links.htm){:title="Click to Visit the Source Links page of the Governance Lessons Project at GitHub pages"}{:target="_blank"}. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+- {:#SOURCELINKS}The [Project Source Links](https://mminail.github.io/Governance/Source-Governance-Links.htm){:title='Click to Visit the Source Links page of the Governance Lessons Project at Concepts Library'}{:target='_blank'} page of the Governance Lessons Project at Concepts Library. Published by © 2017 - 2018 [Mminail.github.io](https://mminail.github.io/){:title='Click to Visit the Home Page of the Concepts Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation'}{:target='_blank'}.
 
-- In [Barbuto v Advantage Sales, Massachusetts Supreme Court, Dtd 071717](https://medmj.us/ReasonableAccommodation){:title="Click to Visit the case of Barbuto v Advantage Sales, 2017"}{:target="_blank"}
+**Note**. This page crafted with {{ page.version }}.
