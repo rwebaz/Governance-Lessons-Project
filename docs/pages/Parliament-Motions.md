@@ -2,21 +2,21 @@
 title: Parliament Motions
 layout: default
 excerpt: In a Parliamentarian system of governance a motion is first declared then discussed ...
-version: Page Template md Dtd 02-16-18
+hint: Rule. To make a motion, a member must first be recognized by the chair, or the presiding officer designated for the meeting.
+repo: Governance-Lessons-Project
+ver_date: 11-26-19
 navigation_weight: 8
-categories: template
+categories: page
 ---
-# {{ page.title }}
-
-{{ page.excerpt }}
-
 {% include toc.md %}
 
 ## Motions and Cat Birds
 
-**Rule**. To make a motion, a member must first be recognized by the chair, or the presiding officer designated for the meeting.
+> **Hint**. {{ page.hint }}
 
-Therefore, the first order of business for any formal meeting is to recognize who will be in the cat-bird seat.
+### Cat-bird Seat
+
+The first order of business for any formal meeting is to recognize who will be in the cat-bird seat.
 
 ### I move that
 
@@ -92,30 +92,16 @@ Ok ... Double the number of 'Nay' votes equals 80.
 
 **Rule**. If the number of 'Nay' votes doubled exceeds the number of 'Yea' votes ( In this case 80 does exceed 40 ), then the motion failed to muster the necessary 2/3rds vote, and the motion, therefore, fails to carry.
 
-{% include sources-and-uses.md %}
-
-## Import Code
+## Last Subtitle
 
 More to come ...
 
-## Last Subtitle
+***
 
-**Note**. The above synopsis was derived from an article written by Jim Slaughter [[2](#PARLIAMENT){:.red}].
+**Note**. The above synopsis was derived from an article written by Jim Slaughter [[1](#JIMSLAUGHTER){:.red}].
 
-### Raw Code Block
+1. {:#JIMSLAUGHTER}[The Complete Idiot's Guide to Parliamentary Procedure: Fast Track](https://medmj.us/HowToParliament){:title="Click to Visit the Guide to Parliamentary Procedure by Jim Slaughter"}{:target="_blank"} by Jim Slaughter.
 
-```liquid
-{% raw %}
-Enjoy the successful output!
-{% endraw %}
-```
+***
 
-{% include sources-and-uses.md %}
-
-1. {:#PARLIAMENT}[The Complete Idiot's Guide to Parliamentary Procedure: Fast Track](https://medmj.us/HowToParliament){:title="Click to Visit the Guide to Parliamentary Procedure by Jim Slaughter"}{:target="_blank"} by Jim Slaughter.
-
-### External Sources
-
-- {:#SOURCELINKS}The [Project Source Links](https://mminail.github.io/Governance/Source-Governance-Links.htm){:title='Click to Visit the Source Links page of the Governance Lessons Project at Concepts Library'}{:target='_blank'} page of the Governance Lessons Project at Concepts Library. Published by © 2017 - 2018 [Mminail.github.io](https://mminail.github.io/){:title='Click to Visit the Home Page of the Concepts Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation'}{:target='_blank'}.
-
-**Note**. This page crafted with {{ page.version }}.
+{% include patreon-link.md %}
