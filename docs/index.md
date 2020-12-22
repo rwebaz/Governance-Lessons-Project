@@ -4,7 +4,7 @@ layout: default
 excerpt: Governance tags and Governance statements mimic underlying Javascript methods ...
 description_one: Issue, Rule, Analysis, Conclusion = IRAC
 repo: Governance-Lessons-Project
-ver_date: 11-20-19
+ver_date: 12-22-20
 navigation_weight: 1
 categories: page
 ---
