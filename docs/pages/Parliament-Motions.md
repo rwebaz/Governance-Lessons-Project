@@ -4,7 +4,7 @@ layout: default
 excerpt: In a Parliamentarian system of governance a motion is first declared then discussed ...
 hint: Rule. To make a motion, a member must first be recognized by the chair, or the presiding officer designated for the meeting.
 repo: Governance-Lessons-Project
-ver_date: 11-26-19
+ver_date: 12-22-20
 navigation_weight: 8
 categories: page
 ---

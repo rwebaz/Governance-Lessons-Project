@@ -4,7 +4,7 @@ layout: default
 excerpt: The Flammarion is an ancient portrait of a medieval man poking his head into the ether ...
 hint: If you don't give me and my crew some food, I will cause the sun to stop shining! ~ Christopher Columbus, circa 1500 CE
 repo: Governance-Lessons-Project
-ver_date: 11-20-19
+ver_date: 12-22-20
 navigation_weight: 9
 categories: page
 ---

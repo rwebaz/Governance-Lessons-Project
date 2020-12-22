@@ -1,5 +1,5 @@
 # 
-# Gemfile ver 122120 Satellite Repo
+# Gemfile ver 122120 for Satellite Repos
 # 
 # frozen_string_literal: true
 #

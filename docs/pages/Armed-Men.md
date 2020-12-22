@@ -4,7 +4,7 @@ layout: default
 excerpt: Every state must judge for itself the number of armed men which they may safely trust among themselves. ~ Thomas Jefferson, A Summary View of The Rights of British America
 hint: While insistence on the individual and therefore, the legal right to bear arms may have been of great advantage at a time past when our social organizations were not that highly developed, this same emphasis on individual rights may become a menace when a social response to progress may be needed rather than an individual response.
 repo: Governance-Lessons-Project
-ver_date: 11-26-19
+ver_date: 12-22-20
 navigation_weight: 8
 categories: page
 ---
